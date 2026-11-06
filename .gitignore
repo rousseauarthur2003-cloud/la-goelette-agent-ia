@@ -1,0 +1,27 @@
+# Dépendances
+node_modules/
+
+# Build Next.js
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Secrets : aucun fichier .env réel ne doit être commité
+.env
+.env.*
+!.env.example
+
+# Journaux et fichiers système
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# Outils locaux
+.vscode/
+.idea/
+coverage/
+.verify/
