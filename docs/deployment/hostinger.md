@@ -59,7 +59,7 @@ Dans **Déploiements → détails / journaux de build**, vous devez voir :
 Puis ouvrez :
 
 - `https://<votre-adresse>/api/health` → doit répondre `{"status":"ok", ...}` ;
-- `https://<votre-adresse>/` → tableau de bord La Goélette ;
+- `https://<votre-adresse>/` → tableau de bord La Goëlette ;
 - `https://<votre-adresse>/siege` → carte 2D.
 
 Un message « Publishing completed » seul ne prouve rien : seuls ces contrôles le prouvent.

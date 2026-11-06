@@ -14,4 +14,4 @@
 Toutes les ressources graphiques (tuiles, mobilier, personnages, icônes) sont dessinées par code dans `src/game/art/`
 (créations originales, aucune image externe). Un « pixel » art = 2 pixels écran. Personnages 16 × 24 pixels art,
 apparence dérivée de l'identifiant du poste (peau, coiffure, vêtements, accessoires).
-Aucun logo n'est fabriqué : le nom « La Goélette » est affiché en texte.
+Aucun logo n'est fabriqué : le nom « La Goëlette » est affiché en texte.

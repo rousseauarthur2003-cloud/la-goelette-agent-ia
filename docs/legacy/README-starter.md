@@ -1,4 +1,4 @@
-# La Goélette — Virtual Headquarters
+# La Goëlette — Virtual Headquarters
 
 Prototype d'une entreprise virtuelle en pixel art 2D, inspirée des RPG Nintendo DS.
 

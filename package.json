@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "La Goélette — entreprise virtuelle pilotée par des agents IA, avec siège social en pixel art 2D.",
+  "description": "La Goëlette — entreprise virtuelle pilotée par des agents IA, avec siège social en pixel art 2D.",
   "engines": {
     "node": ">=20.9.0"
   },

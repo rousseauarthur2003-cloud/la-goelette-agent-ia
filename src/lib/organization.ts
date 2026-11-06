@@ -31,7 +31,7 @@ export const DEPARTMENTS: Department[] = [
     description:
       "Département prioritaire au lancement. Conçoit les campagnes, anime les réseaux sociaux, travaille le référencement et mesure les résultats.",
     objectives: [
-      "Développer la notoriété locale de La Goélette",
+      "Développer la notoriété locale de La Goëlette",
       "Planifier et suivre les campagnes publicitaires",
       "Structurer la présence sur les réseaux sociaux",
     ],
@@ -117,7 +117,7 @@ export const DEPARTMENTS: Department[] = [
     description:
       "Construit et maintient les outils : site web, automatisations, intégrations IA et données.",
     objectives: [
-      "Fiabiliser la plateforme La Goélette",
+      "Fiabiliser la plateforme La Goëlette",
       "Connecter les premiers agents IA réels",
       "Organiser et sécuriser les données",
     ],

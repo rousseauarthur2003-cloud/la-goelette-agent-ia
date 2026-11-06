@@ -1,4 +1,4 @@
-# La Goélette — siège virtuel et entreprise pilotée par agents IA
+# La Goëlette — siège virtuel et entreprise pilotée par agents IA
 
 Application web Next.js (App Router, React, TypeScript) avec un siège social explorable en pixel art 2D (Phaser 3).
 Interface entièrement en français.

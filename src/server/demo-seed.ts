@@ -81,7 +81,7 @@ export function buildDemoSeed(now: number = Date.now()) {
     id,
     title,
     description,
-    objective: "Développer la notoriété locale de La Goélette (objectif de démonstration)",
+    objective: "Développer la notoriété locale de La Goëlette (objectif de démonstration)",
     status,
     priority,
     departmentId,

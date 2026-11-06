@@ -29,7 +29,7 @@ export default function DashboardPage() {
         <div>
           <h1>Tableau de bord</h1>
           <p>
-            Vue d&apos;ensemble de La Goélette : organisation, activité réelle des agents, missions et validations.
+            Vue d&apos;ensemble de La Goëlette : organisation, activité réelle des agents, missions et validations.
             Le département marketing est prioritaire au lancement.
           </p>
         </div>

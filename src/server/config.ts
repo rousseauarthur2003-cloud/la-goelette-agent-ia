@@ -18,7 +18,7 @@ export function getConfig(): ServerConfig {
   const aiProvider = provider === "anthropic" ? "anthropic" : null;
   return {
     mode,
-    appName: process.env.NEXT_PUBLIC_APP_NAME || "La Goélette",
+    appName: process.env.NEXT_PUBLIC_APP_NAME || "La Goëlette",
     authEnabled: Boolean(process.env.FOUNDER_PASSWORD),
     aiProvider,
     aiConfigured: Boolean(aiProvider && process.env.AI_API_KEY),

@@ -209,7 +209,7 @@ function Panel({
     const t = snapshot.totals;
     return (
       <div className="stack" style={{ gap: 12 }}>
-        <h2>Siège de La Goélette</h2>
+        <h2>Siège de La Goëlette</h2>
         <p className="muted">Cliquez sur un bureau, une salle ou sur le CEO au centre du bâtiment pour afficher sa fiche.</p>
         <dl className="kv" style={{ gridTemplateColumns: "1fr auto" }}>
           <dt>Postes prévus</dt><dd>{t.positions}</dd>

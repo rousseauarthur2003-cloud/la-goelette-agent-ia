@@ -17,7 +17,7 @@ export default function CompanyPage() {
         <div>
           <h1>Entreprise</h1>
           <p>
-            Organigramme de La Goélette : le fondateur fixe les objectifs, le CEO IA organise le travail et délègue aux
+            Organigramme de La Goëlette : le fondateur fixe les objectifs, le CEO IA organise le travail et délègue aux
             dix départements. 50 postes prévus — un poste n&apos;est pas un agent, et un agent n&apos;est pas une exécution.
           </p>
         </div>

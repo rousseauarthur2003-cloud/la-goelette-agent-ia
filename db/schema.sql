@@ -1,4 +1,4 @@
--- La Goélette — schéma PostgreSQL CIBLE (non utilisé par la version 0.1, stockage en mémoire).
+-- La Goëlette — schéma PostgreSQL CIBLE (non utilisé par la version 0.1, stockage en mémoire).
 -- Cohérent avec src/types/domain.ts. À appliquer lors de l'activation de la persistance.
 
 CREATE TABLE departments (

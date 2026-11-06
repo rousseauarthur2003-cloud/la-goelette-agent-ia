@@ -11,7 +11,7 @@ import { isFounderSession } from "@/server/session";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: { default: "La Goélette — Siège virtuel", template: "%s · La Goélette" },
+  title: { default: "La Goëlette — Siège virtuel", template: "%s · La Goëlette" },
   description: "Entreprise virtuelle pilotée par des agents IA, avec siège social en pixel art.",
   robots: { index: false, follow: false },
 };
