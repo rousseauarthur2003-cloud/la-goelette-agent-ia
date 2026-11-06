@@ -1,0 +1,31 @@
+{
+  "name": "la-goelette-agent-ia",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "La Goélette — entreprise virtuelle pilotée par des agents IA, avec siège social en pixel art 2D.",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "inventory": "tsx scripts/generate-inventory.ts"
+  },
+  "dependencies": {
+    "next": "^15.5.7",
+    "phaser": "^3.90.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.9.0"
+  }
+}

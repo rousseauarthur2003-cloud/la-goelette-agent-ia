@@ -1,0 +1,51 @@
+position_id,department_id,department_name,title,assigned_agent_id,status
+DIR-01,DIR,Direction exécutive,CEO IA,,vacant
+DIR-02,DIR,Direction exécutive,Assistant de direction,,vacant
+DIR-03,DIR,Direction exécutive,Responsable stratégie,,vacant
+DIR-04,DIR,Direction exécutive,Responsable qualité,,vacant
+MKT-01,MKT,Marketing & publicité,Directeur marketing,,vacant
+MKT-02,MKT,Marketing & publicité,Responsable campagnes publicitaires,,vacant
+MKT-03,MKT,Marketing & publicité,Community manager,,vacant
+MKT-04,MKT,Marketing & publicité,Responsable réseaux sociaux,,vacant
+MKT-05,MKT,Marketing & publicité,Responsable SEO,,vacant
+MKT-06,MKT,Marketing & publicité,Analyste marketing,,vacant
+COM-01,COM,Création & communication,Responsable éditorial,,vacant
+COM-02,COM,Création & communication,Rédacteur publicitaire,,vacant
+COM-03,COM,Création & communication,Créateur de contenu,,vacant
+COM-04,COM,Création & communication,Graphiste,,vacant
+COM-05,COM,Création & communication,Responsable photo et visuels,,vacant
+SAL-01,SAL,Commercial & développement,Directeur commercial,,vacant
+SAL-02,SAL,Commercial & développement,Responsable prospection,,vacant
+SAL-03,SAL,Commercial & développement,Responsable partenariats,,vacant
+SAL-04,SAL,Commercial & développement,Responsable développement,,vacant
+SAL-05,SAL,Commercial & développement,Analyste commercial,,vacant
+CX-01,CX,Expérience client,Responsable expérience client,,vacant
+CX-02,CX,Expérience client,Agent service client,,vacant
+CX-03,CX,Expérience client,Responsable fidélisation,,vacant
+CX-04,CX,Expérience client,Analyste satisfaction,,vacant
+CX-05,CX,Expérience client,Responsable réclamations,,vacant
+FIN-01,FIN,Finance & comptabilité,Directeur financier,,vacant
+FIN-02,FIN,Finance & comptabilité,Comptable,,vacant
+FIN-03,FIN,Finance & comptabilité,Analyste financier,,vacant
+FIN-04,FIN,Finance & comptabilité,Contrôleur de gestion,,vacant
+FIN-05,FIN,Finance & comptabilité,Responsable budgets,,vacant
+IT-01,IT,Informatique & automatisation,CTO,,vacant
+IT-02,IT,Informatique & automatisation,Développeur web,,vacant
+IT-03,IT,Informatique & automatisation,Développeur automatisation,,vacant
+IT-04,IT,Informatique & automatisation,Expert IA et intégrations,,vacant
+IT-05,IT,Informatique & automatisation,Responsable données,,vacant
+CUL-01,CUL,Recherche et développement culinaire,Directeur recherche culinaire,,vacant
+CUL-02,CUL,Recherche et développement culinaire,Chef créatif,,vacant
+CUL-03,CUL,Recherche et développement culinaire,Développeur recettes,,vacant
+CUL-04,CUL,Recherche et développement culinaire,Responsable innovation,,vacant
+CUL-05,CUL,Recherche et développement culinaire,Responsable fiches techniques,,vacant
+CUL-06,CUL,Recherche et développement culinaire,Analyste tendances gastronomiques,,vacant
+OPS-01,OPS,Production & opérations,Directeur des opérations,,vacant
+OPS-02,OPS,Production & opérations,Responsable production,,vacant
+OPS-03,OPS,Production & opérations,Responsable procédures,,vacant
+OPS-04,OPS,Production & opérations,Responsable logistique,,vacant
+OPS-05,OPS,Production & opérations,Responsable fournisseurs,,vacant
+ADM-01,ADM,Administration & juridique,Responsable administratif,,vacant
+ADM-02,ADM,Administration & juridique,Assistant administratif,,vacant
+ADM-03,ADM,Administration & juridique,Responsable RH,,vacant
+ADM-04,ADM,Administration & juridique,Responsable conformité,,vacant
